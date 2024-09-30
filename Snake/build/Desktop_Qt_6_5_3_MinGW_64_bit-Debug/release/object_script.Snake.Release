@@ -1,0 +1,13 @@
+release/main.o
+release/savegame.o
+release/widget.o
+release/snake.o
+release/mypoint.o
+release/gameplay.o
+release/mypushbutton.o
+release/food.o
+release/gameend.o
+release/moc_widget.o
+release/moc_gameplay.o
+release/moc_mypushbutton.o
+release/moc_gameend.o

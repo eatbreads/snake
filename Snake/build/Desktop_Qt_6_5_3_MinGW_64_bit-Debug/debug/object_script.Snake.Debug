@@ -1,0 +1,13 @@
+debug/main.o
+debug/savegame.o
+debug/widget.o
+debug/snake.o
+debug/mypoint.o
+debug/gameplay.o
+debug/mypushbutton.o
+debug/food.o
+debug/gameend.o
+debug/moc_widget.o
+debug/moc_gameplay.o
+debug/moc_mypushbutton.o
+debug/moc_gameend.o
